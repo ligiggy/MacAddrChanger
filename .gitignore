@@ -1,0 +1,7 @@
+MacAddrChanger/obj/
+
+MacAddrChanger/bin/debug/
+
+*.pdb
+
+.vs/

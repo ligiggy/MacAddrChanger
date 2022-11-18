@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MacAddrChanger", "MacAddrChanger\MacAddrChanger.csproj", "{C446C142-1A3C-4360-A4AA-39442BF17EC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C446C142-1A3C-4360-A4AA-39442BF17EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C446C142-1A3C-4360-A4AA-39442BF17EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C446C142-1A3C-4360-A4AA-39442BF17EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C446C142-1A3C-4360-A4AA-39442BF17EC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AF05803-91D4-4F22-B108-2419BE5E5C09}
+	EndGlobalSection
+EndGlobal
